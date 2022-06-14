@@ -25,7 +25,7 @@ import (
 var HideMenus = false
 
 // NoConfirm indicates if user input should be skipped.
-var NoConfirm = false
+var NoConfirm = true
 
 // Configuration stores yay's config.
 type Configuration struct {
